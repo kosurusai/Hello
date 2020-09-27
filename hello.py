@@ -5,3 +5,4 @@ def func (:
 func()
 
 prin("hehe")
+Print("hello")
